@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace Learning.Patterns.Apapter
+namespace Learning.Patterns.Adapter
 {
     public class EntryPoint : MonoBehaviour
     {

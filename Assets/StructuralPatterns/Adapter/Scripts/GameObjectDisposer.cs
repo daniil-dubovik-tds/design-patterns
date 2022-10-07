@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Learning.Patterns.Apapter
+namespace Learning.Patterns.Adapter
 {
     public class GameObjectDisposer : IDisposable
     {
