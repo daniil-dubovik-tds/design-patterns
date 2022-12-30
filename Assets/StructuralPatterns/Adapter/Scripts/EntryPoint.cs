@@ -9,7 +9,7 @@ namespace Learning.Patterns.Adapter
         
         private void Start()
         {
-            cells.Promenumize(1);
+            cells.Numerate(1);
         }
     }
 }
